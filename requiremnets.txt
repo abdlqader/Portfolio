@@ -1,0 +1,13 @@
+asgiref @ file:///tmp/build/80754af9/asgiref_1594338739818/work
+certifi==2020.6.20
+click==7.1.2
+Django==3.0.3
+joblib @ file:///tmp/build/80754af9/joblib_1594236160679/work
+nltk @ file:///tmp/build/80754af9/nltk_1592496090529/work
+olefile==0.46
+Pillow @ file:///tmp/build/80754af9/pillow_1594307295532/work
+psycopg2-binary==2.8.5
+pytz==2020.1
+regex @ file:///tmp/build/80754af9/regex_1596829684054/work
+sqlparse==0.3.1
+tqdm @ file:///tmp/build/80754af9/tqdm_1596810128862/work
